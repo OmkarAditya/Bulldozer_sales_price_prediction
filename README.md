@@ -8,7 +8,7 @@
 
 
 ### 1. Problem Defination
-> Given the details (various features) of Bulldozers sold from 1989 to 2012 and their price (train set and validation set) we need to prdict the price of bulldozers sold **after 2012** (test set)
+> Given the details (various features) of Bulldozers sold from year 1989 to 2012 and their price (train set and validation set) we need to prdict the price of bulldozers sold **after 2012** (test set)
 
 
 
