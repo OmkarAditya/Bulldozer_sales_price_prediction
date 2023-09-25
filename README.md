@@ -1,6 +1,6 @@
 # Bulldozer_sales_price_prediction
 
-## Predicting the sale price of bulldozers using Machine Learning (Time series data)
+#### Predicting the sale price of bulldozers using Machine Learning (Time series data)
 
 ## This is a REGRESSION problem with TIME SERIES DATA
  * Data size > **412K** entries
