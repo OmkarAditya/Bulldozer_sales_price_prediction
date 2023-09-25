@@ -34,7 +34,7 @@ https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
 **Data visualization**
 ![data](https://github.com/OmkarAditya/Bulldozer_sales_price_prediction/assets/108687318/2ea127b0-4f28-44da-8f3e-7f4260d8779b)
 ![data2](https://github.com/OmkarAditya/Bulldozer_sales_price_prediction/assets/108687318/8ae7fef0-e82d-4e1b-819c-541304f574cc)
-** Evaluation **
+**Evaluation**
 ![evaluation](https://github.com/OmkarAditya/Bulldozer_sales_price_prediction/assets/108687318/2095525b-3536-465c-8113-e6ecc4c8dae8)
-** feature importance **
+**Feature importance**
 ![feature_importance](https://github.com/OmkarAditya/Bulldozer_sales_price_prediction/assets/108687318/0ab61507-34bc-40be-bada-78d37b3b13be)
